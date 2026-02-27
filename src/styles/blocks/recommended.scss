@@ -1,4 +1,6 @@
 .recommended {
+  overflow: hidden;
+
   &__products {
     @include page-grid;
 

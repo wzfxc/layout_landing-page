@@ -2,6 +2,7 @@
   background-image: url(../images/header-image.png);
   background-size: cover;
   background-position: center;
+  overflow: hidden;
 
   &__content {
     height: 100vh;

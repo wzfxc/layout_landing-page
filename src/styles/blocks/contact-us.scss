@@ -1,4 +1,6 @@
 .contact-us {
+  overflow: hidden;
+
   &__wrapper {
     @include page-grid;
 
